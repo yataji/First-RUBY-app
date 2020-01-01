@@ -1,0 +1,2 @@
+module YatajiHelper
+end
